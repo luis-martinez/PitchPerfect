@@ -16,7 +16,7 @@
 		BC636BC01CCADE9100D763D6 /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC636BBF1CCADE9100D763D6 /* PitchPerfectTests.swift */; };
 		BC636BCB1CCADE9100D763D6 /* PitchPerfectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC636BCA1CCADE9100D763D6 /* PitchPerfectUITests.swift */; };
 		BCDBAE8C1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCDBAE8B1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift */; };
-		BCDBAE8E1CCF224000391542 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = BCDBAE8D1CCF224000391542 /* README.md */; };
+		BCDBAE8E1CCF224000391542 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE8D1CCF224000391542 /* README.md */; };
 		BCDBAEA31CCF2CE100391542 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE9F1CCF2CE100391542 /* screenshot1.png */; };
 		BCDBAEA41CCF2CE100391542 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAEA01CCF2CE100391542 /* screenshot2.png */; };
 		BCDBAEA51CCF2CE100391542 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAEA11CCF2CE100391542 /* screenshot3.png */; };
@@ -256,6 +256,7 @@
 				BC636BB51CCADE9000D763D6 /* LaunchScreen.storyboard in Resources */,
 				BCDBAEA31CCF2CE100391542 /* screenshot1.png in Resources */,
 				BC636BB21CCADE9000D763D6 /* Assets.xcassets in Resources */,
+				BCDBAE8E1CCF224000391542 /* README.md in Resources */,
 				BCDBAEA51CCF2CE100391542 /* screenshot3.png in Resources */,
 				BCDBAEA61CCF2CE100391542 /* screenshot4.png in Resources */,
 				BCDBAEA41CCF2CE100391542 /* screenshot2.png in Resources */,
@@ -286,7 +287,6 @@
 			files = (
 				BC636BAD1CCADE9000D763D6 /* RecordSoundsViewController.swift in Sources */,
 				BCDBAE8C1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift in Sources */,
-				BCDBAE8E1CCF224000391542 /* README.md in Sources */,
 				BC514CC11CCEAC67005EBF23 /* PlaySoundsViewController.swift in Sources */,
 				BC636BAB1CCADE9000D763D6 /* AppDelegate.swift in Sources */,
 			);
