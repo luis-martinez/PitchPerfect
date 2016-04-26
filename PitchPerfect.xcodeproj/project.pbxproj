@@ -16,6 +16,11 @@
 		BC636BC01CCADE9100D763D6 /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC636BBF1CCADE9100D763D6 /* PitchPerfectTests.swift */; };
 		BC636BCB1CCADE9100D763D6 /* PitchPerfectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC636BCA1CCADE9100D763D6 /* PitchPerfectUITests.swift */; };
 		BCDBAE8C1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCDBAE8B1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift */; };
+		BCDBAE8E1CCF224000391542 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = BCDBAE8D1CCF224000391542 /* README.md */; };
+		BCDBAE931CCF271F00391542 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE8F1CCF271F00391542 /* screenshot1.png */; };
+		BCDBAE941CCF271F00391542 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE901CCF271F00391542 /* screenshot2.png */; };
+		BCDBAE951CCF271F00391542 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE911CCF271F00391542 /* screenshot3.png */; };
+		BCDBAE961CCF271F00391542 /* screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDBAE921CCF271F00391542 /* screenshot4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +56,11 @@
 		BC636BCA1CCADE9100D763D6 /* PitchPerfectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitchPerfectUITests.swift; sourceTree = "<group>"; };
 		BC636BCC1CCADE9100D763D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCDBAE8B1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlaySoundsViewController+Audio.swift"; sourceTree = "<group>"; };
+		BCDBAE8D1CCF224000391542 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BCDBAE8F1CCF271F00391542 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		BCDBAE901CCF271F00391542 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		BCDBAE911CCF271F00391542 /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
+		BCDBAE921CCF271F00391542 /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +95,11 @@
 				BC636BBE1CCADE9100D763D6 /* PitchPerfectTests */,
 				BC636BC91CCADE9100D763D6 /* PitchPerfectUITests */,
 				BC636BA81CCADE9000D763D6 /* Products */,
+				BCDBAE8D1CCF224000391542 /* README.md */,
+				BCDBAE8F1CCF271F00391542 /* screenshot1.png */,
+				BCDBAE901CCF271F00391542 /* screenshot2.png */,
+				BCDBAE911CCF271F00391542 /* screenshot3.png */,
+				BCDBAE921CCF271F00391542 /* screenshot4.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -239,7 +254,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC636BB51CCADE9000D763D6 /* LaunchScreen.storyboard in Resources */,
+				BCDBAE931CCF271F00391542 /* screenshot1.png in Resources */,
 				BC636BB21CCADE9000D763D6 /* Assets.xcassets in Resources */,
+				BCDBAE951CCF271F00391542 /* screenshot3.png in Resources */,
+				BCDBAE961CCF271F00391542 /* screenshot4.png in Resources */,
+				BCDBAE941CCF271F00391542 /* screenshot2.png in Resources */,
 				BC636BB01CCADE9000D763D6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,6 +286,7 @@
 			files = (
 				BC636BAD1CCADE9000D763D6 /* RecordSoundsViewController.swift in Sources */,
 				BCDBAE8C1CCEFD4700391542 /* PlaySoundsViewController+Audio.swift in Sources */,
+				BCDBAE8E1CCF224000391542 /* README.md in Sources */,
 				BC514CC11CCEAC67005EBF23 /* PlaySoundsViewController.swift in Sources */,
 				BC636BAB1CCADE9000D763D6 /* AppDelegate.swift in Sources */,
 			);
