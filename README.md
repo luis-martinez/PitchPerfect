@@ -27,5 +27,5 @@ This course will introduce you to iOS app development in Swift, a new programmin
 
 ![screenshot3](screenshot3.png)
 
-![screenshot3](screenshot4.png)
+![screenshot4](screenshot4.png)
 
